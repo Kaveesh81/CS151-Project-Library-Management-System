@@ -1,7 +1,5 @@
 # CS151-Project-Library-Management-System
 CS151 Final Project
-Library Management System
-Project Overview
 The Library Management System is a Java-based application designed to manage a collection of books and users within a library. The system provides functionalities for both regular users and librarians, including borrowing books, returning books, and managing user accounts. The application utilizes Object-Oriented Programming (OOP) principles, Java Swing for the graphical user interface, and supports file I/O operations for saving and loading data.
 
 Features
